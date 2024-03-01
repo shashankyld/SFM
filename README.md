@@ -1,9 +1,7 @@
 #### Create a conda env : Since we will work with SplaTam, use its conda env
 
-[SplaTam]([https://www.anaconda.com/](https://github.com/spla-tam/SplaTAM))
-
 ##### (Recommended)
-SplaTAM has been tested on python 3.10, CUDA>=11.6. The simplest way to install all dependences is to use [anaconda](https://www.anaconda.com/) and [pip](https://pypi.org/project/pip/) in the following steps: 
+[SplaTam](https://github.com/spla-tam/SplaTAM) has been tested on python 3.10, CUDA>=11.6. The simplest way to install all dependences is to use [anaconda](https://www.anaconda.com/) and [pip](https://pypi.org/project/pip/) in the following steps: 
 
 ```bash
 conda create -n splatam python=3.10
