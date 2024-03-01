@@ -15,7 +15,7 @@ pip install -r requirements.txt
 Note:
 1. Data is already part of this repo
 2. Code for network and weights are adapted from [SuperPoint](https://github.com/magicleap/SuperPointPretrainedNetwork) by Magicleap
-'''
+```
 python3 my_superpoint.py datasets/frieberg_desktop/  superpoint_v1.pth --cuda
-'''  
+```  
 3. This doesnt track detections in consecutive frame to form associations. But you can also find code to track in the original implementation [SuperPoint](https://github.com/magicleap/SuperPointPretrainedNetwork)
