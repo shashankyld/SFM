@@ -1,4 +1,5 @@
-Create a conda env : Since we will work with SplaTam, use its conda env
+#### Create a conda env : Since we will work with SplaTam, use its conda env
+
 [SplaTam]([https://www.anaconda.com/](https://github.com/spla-tam/SplaTAM))
 
 ##### (Recommended)
@@ -12,7 +13,7 @@ conda install pytorch==1.12.1 torchvision==0.13.1 torchaudio==0.12.1 cudatoolkit
 pip install -r requirements.txt
 ```
 
-#### TO run SuperPoint on Frieberg desktop data
+#### To run SuperPoint on Frieberg desktop data
 Note:
 1. Data is already part of this repo
 2. Code for network and weights are adapted from [SuperPoint](https://github.com/magicleap/SuperPointPretrainedNetwork) by Magicleap
