@@ -1,3 +1,6 @@
+https://rpg.ifi.uzh.ch/teaching.html
+
+
 #### Create a conda env : Since we will work with SplaTam, use its conda env
 
 ##### (Recommended)
